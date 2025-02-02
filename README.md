@@ -1,0 +1,2 @@
+# line_notifier_google_calendar
+Googleカレンダーが変更されたらLineに通知するGASのコード
