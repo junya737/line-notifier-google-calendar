@@ -6,7 +6,7 @@ const SS_ID_B = SCRIPT_PROPERTIES.getProperty("SS_ID_B");
 const CALENDAR_ID_A = SCRIPT_PROPERTIES.getProperty("CALENDAR_ID_A"); //AさんのカレンダーID
 const CALENDAR_ID_B = SCRIPT_PROPERTIES.getProperty("CALENDAR_ID_B");
 const CHECK_DAY_WINDOW = 30 // 30日間の変更をチェックする
-const DEBUG = true;
+const DEBUG = true; // debugモードならラインに通知しない．
 
 
 // 📌 通知のフォーマットを統一する関数．形式に関してはdetector.gsを参照．
